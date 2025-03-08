@@ -58,6 +58,6 @@ app.MapGet("/user", () =>
 .WithName("GetUser");
 
 app.Run();
-
+//hola chicas jbfdhf
 record PersonInfo(string Name, DateOnly BirthDate, int Age, string Sex, int DaysSinceBirth);
  
